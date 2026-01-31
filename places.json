@@ -6,6 +6,13 @@
     "lng": 120.0406,
     "description": "One of the most popular stops, featuring a viewing deck with a panoramic view of the park, a zipline connecting to Virgin Island, and the famous 'Big Brother' house.",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Governor%27s_Island_View_Deck.jpg/1200px-Governor%27s_Island_View_Deck.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Governor%27s_Island_View_Deck.jpg/1200px-Governor%27s_Island_View_Deck.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/PBB_House_Hundred_Islands.jpg/800px-PBB_House_Hundred_Islands.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Governor%27s_Island_Zipline.jpg/800px-Governor%27s_Island_Zipline.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hundred_Islands_Bridge.jpg/800px-Hundred_Islands_Bridge.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Governor_Island_Helipad.jpg/800px-Governor_Island_Helipad.jpg"
+    ],
     "tags": ["Viewpoint", "Zipline", "Hiking"]
   },
   {
@@ -15,6 +22,10 @@
     "lng": 120.0381,
     "description": "The most developed island in the park, serving as the main activity hub. It offers dining pavilions, snorkeling gear rentals, and kayaking facilities.",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Quezon_Island%2C_Hundred_Islands.jpg/1200px-Quezon_Island%2C_Hundred_Islands.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Quezon_Island%2C_Hundred_Islands.jpg/1200px-Quezon_Island%2C_Hundred_Islands.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Quezon_Island_Pavilion.jpg/800px-Quezon_Island_Pavilion.jpg"
+    ],
     "tags": ["Dining", "Snorkeling", "Kayaking"]
   },
   {
@@ -24,6 +35,10 @@
     "lng": 120.0467,
     "description": "Famous for the Imelda Cave, which features a natural pool accessible by a thrilling cliff jump. It also has a fine white sand beach.",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Marcos_Island_beach.jpg/1200px-Marcos_Island_beach.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Marcos_Island_beach.jpg/1200px-Marcos_Island_beach.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Imelda_Cave_Entrance.jpg/800px-Imelda_Cave_Entrance.jpg"
+    ],
     "tags": ["Cave", "Cliff Jumping", "Beach"]
   },
   {
@@ -33,6 +48,10 @@
     "lng": 120.0350,
     "description": "Formerly known as Martha Island, this spot features a giant statue of Christ the Savior. Visitors climb approximately 263 steps to reach the shrine.",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Christ_the_Savior_Statue_%28Pilgrimage_Island%29.jpg/800px-Christ_the_Savior_Statue_%28Pilgrimage_Island%29.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Christ_the_Savior_Statue_%28Pilgrimage_Island%29.jpg/800px-Christ_the_Savior_Statue_%28Pilgrimage_Island%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pilgrimage_Island_Steps.jpg/800px-Pilgrimage_Island_Steps.jpg"
+    ],
     "tags": ["Religious", "Hiking", "Sightseeing"]
   },
   {
@@ -42,6 +61,10 @@
     "lng": 120.0392,
     "description": "Known for its shallow, calm waters ideal for young swimmers. It offers designated camping areas and a more relaxed atmosphere compared to Quezon Island.",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Children%27s_Island_Beach.jpg/1200px-Children%27s_Island_Beach.jpg",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Children%27s_Island_Beach.jpg/1200px-Children%27s_Island_Beach.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Childrens_Island_Camping.jpg/800px-Childrens_Island_Camping.jpg"
+    ],
     "tags": ["Family", "Camping", "Swimming"]
   }
 ]
