@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Hundred Islands",
+    "lat": 16.2132,
+    "lng": 120.0435,
+    "description": "A magnificent national park composed of 124 islands at high tide and 123 at low tide. Famous for snorkeling, kayaking, and camping.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hundred_Islands_National_Park.jpg/1200px-Hundred_Islands_National_Park.jpg",
+    "tags": ["Nature", "Island", "Boating"]
+  },
+  {
+    "id": "2",
+    "name": "Bolinao Falls",
+    "lat": 16.3134,
+    "lng": 119.8631,
+    "description": "A series of three waterfalls known for their turquoise waters and bamboo rafts. A perfect spot for a refreshing swim.",
+    "imageUrl": "https://i.pinimg.com/originals/a1/3f/8a/a13f8ab3473138384242683076e9389e.jpg",
+    "tags": ["Waterfall", "Swimming", "Adventure"]
+  }
+]
