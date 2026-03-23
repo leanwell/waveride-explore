@@ -5,13 +5,13 @@
     "lat": 16.2056,
     "lng": 120.0406,
     "description": "One of the most popular stops, featuring a viewing deck with a panoramic view of the park, a zipline connecting to Virgin Island, and the famous 'Big Brother' house.",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Governor%27s_Island_View_Deck.jpg/1200px-Governor%27s_Island_View_Deck.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/leanwell/waveride-explore/main/imgs/g.jpg",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Governor%27s_Island_View_Deck.jpg/1200px-Governor%27s_Island_View_Deck.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/PBB_House_Hundred_Islands.jpg/800px-PBB_House_Hundred_Islands.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Governor%27s_Island_Zipline.jpg/800px-Governor%27s_Island_Zipline.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hundred_Islands_Bridge.jpg/800px-Hundred_Islands_Bridge.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Governor_Island_Helipad.jpg/800px-Governor_Island_Helipad.jpg"
+      "https://raw.githubusercontent.com/leanwell/waveride-explore/main/imgs/g.jpg",
+      "https://raw.githubusercontent.com/leanwell/waveride-explore/main/imgs/g2.jpg",
+      "https://raw.githubusercontent.com/leanwell/waveride-explore/main/imgs/g1.jpg",
+      "https://raw.githubusercontent.com/leanwell/waveride-explore/main/imgs/pbb.jpg",
+      "https://raw.githubusercontent.com/leanwell/waveride-explore/main/imgs/bridge.jpg"
     ],
     "tags": ["Viewpoint", "Zipline", "Hiking"]
   },
